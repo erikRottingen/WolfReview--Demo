@@ -1,5 +1,5 @@
 # WolfReview--Demo
-Demo for WolfReview Project, which is used to help manage the process of reviewing papers for a Computer Science Education Conference.
+Full code and testing done by me.  GUI provided by staff, Dr. Sarah Heckman and Dr. Chandrika Satyavolu. Demo for WolfReview Project, which is used to help manage the process of reviewing papers for a Computer Science Education Conference.
 The Program allows for the user to make either a new Paper Track of academic papers, or upload an existing paper track.
 When the program runs on the GUI, it starts with a unfilled in screen:
 <img width="1919" height="1129" alt="Screenshot 2026-01-31 171922" src="https://github.com/user-attachments/assets/8fbcff9e-a666-41b0-9685-b453f832000b" />
